@@ -1,0 +1,5 @@
+{
+  "name": "ArchitectAI Docs Generator",
+  "description": "A professional tool for generating technical documentation, Cursor rules, and Azure configurations from source code using Senior Architect persona.",
+  "requestFramePermissions": []
+}
